@@ -11,6 +11,7 @@ namespace _2_21_2019GitBranchingPractice
         static void Main(string[] args)
         {
             Console.WriteLine("Doodoo");
+            Console.WriteLine("Big doodoo");
         }
     }
 }
